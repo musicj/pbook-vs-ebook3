@@ -2,8 +2,6 @@
 This is the repository about argue print-book vs. e-book
 
 
-_______
-
 ##  E-Book better than Print-Book
 1. One Device, Many Books:
 2. Accessible Everywhere:
@@ -42,4 +40,3 @@ Music
 ## License
 
 MIT
-
