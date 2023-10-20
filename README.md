@@ -6,8 +6,7 @@ This is the repository about argue print-book vs. e-book
 2. Print-Book help you sleep better than E-Book because E-Book have to read through electronic madia screens. It is not good for the brain.
 3. No need for Batteries but E-Book need it.
 
-![book](images/pexels-yaroslav-shuraev-5608541.jpg)
-_______
+![book photo](images/pexels-yaroslav-shuraev-5608541.jpg)
 
 ##  E-Book better than Print-Book
 1. One Device, Many Books:
@@ -47,4 +46,3 @@ Music
 ## License
 
 MIT
-
